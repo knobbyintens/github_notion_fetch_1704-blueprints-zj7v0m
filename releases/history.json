@@ -22,7 +22,9 @@
       "version": "2026.09",
       "packages": [
         "invoice-router",
-        "event-bus"
+        "event-bus",
+        "alert-fanout",
+        "feature-flags"
       ]
     }
   ]
